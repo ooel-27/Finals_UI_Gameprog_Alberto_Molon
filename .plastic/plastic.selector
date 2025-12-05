@@ -1,0 +1,4 @@
+repository "Finals_GameProg2_Shady-Shelves/Finals_GameProg2_Shady-Shelves@18968282656465@cloud"
+  path "/"
+    br "/main"
+    co "/main"
